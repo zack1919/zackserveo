@@ -11,7 +11,7 @@ What you'll need:
 
 Run this on your VPS:  
 
- <pre> ```bash wget https://github.com/zack1919/zackserveo/raw/refs/heads/main/zackserveo.sh && bash zackserveo.sh``` </pre> 
+ <pre> ``` wget https://github.com/zack1919/zackserveo/raw/refs/heads/main/zackserveo.sh && bash zackserveo.sh``` </pre> 
 
  then follow the instructions, and enjoy :D
 
